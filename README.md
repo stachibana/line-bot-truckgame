@@ -1,11 +1,11 @@
 # LINE BOT Truck Game
 
-![Image](https://raw.github.com/wiki/stachibana/line-bot-truckgame/images/ss.png)
+![Image](https://raw.githubusercontent.com/stachibana/line-bot-truckgame/master/ss.png)
 
 A casual game for LINE Bot.
 Add friend via [https://line.me/R/ti/p/%40jod8279c](https://line.me/R/ti/p/%40jod8279c).
 
-![QR Link](https://raw.github.com/wiki/stachibana/line-bot-truckgame/images/qr.png)
+![QR Link](https://raw.githubusercontent.com/stachibana/line-bot-truckgame/master/qr.png)
 
 ## Procedure
 
